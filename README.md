@@ -28,7 +28,7 @@ The React Financial Tracker App is designed to help users keep track of their in
 ## Setup and Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ajay-Chaudhari01001/Financely.git
+   git clone https://github.com/NikhilPeddireddy/Financely.git
    cd react-financial-tracker-app
 
 1. Install dependencies::
